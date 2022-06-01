@@ -16,10 +16,14 @@ body {
 
 .Top a {
   margin-left: 25px;
+  padding-left: 5px;
+  padding-top: 10px;
 }
 
 nav {
   margin-right: 30px;
+  padding-right: 5px;
+  padding-top: 10px;
 }
 
 .headline {
